@@ -9,5 +9,8 @@ public class TestGit {
 	public void setTestProperty(String testProperty) {
 		this.testProperty = testProperty;
 	}
-	
+	private void syso() {
+		// TODO Auto-generated method stub
+		System.out.println("eeeeeeeeeeee");
+	}
 }
