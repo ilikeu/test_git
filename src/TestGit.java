@@ -11,7 +11,7 @@ public class TestGit {
 	}
 	private void sys() {
 		// TODO Auto-generated method stub
-		System.out.println("主干做修改----");
+		System.out.println("最后一次分支做修改做修改----");
 	}
 	
 }
