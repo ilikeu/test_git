@@ -11,7 +11,7 @@ public class TestGit {
 	}
 	private void sys() {
 		// TODO Auto-generated method stub
-		System.out.println("ֻ�з�֧�Ͱ�");
+		System.out.println("只有分支有");
 	}
 	
 }
