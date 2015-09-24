@@ -11,7 +11,7 @@ public class TestGit {
 	}
 	private void sys() {
 		// TODO Auto-generated method stub
-		System.out.println("测试冲突分支提交--二---");
+		System.out.println("第一。。。。");
 	}
 	
 }
