@@ -11,7 +11,7 @@ public class TestGit {
 	}
 	private void sys() {
 		// TODO Auto-generated method stub
-		System.out.println("第一。。。。");
+		System.out.println("第一。。。。wo ziji 44344444de fenzhi");
 	}
 	
 }
