@@ -11,7 +11,7 @@ public class TestGit {
 	}
 	private void sys() {
 		// TODO Auto-generated method stub
-		System.out.println("第一。。。对方水电费。");
+		System.out.println("本分支修改了");
 	}
 	
 }
