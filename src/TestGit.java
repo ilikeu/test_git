@@ -11,7 +11,7 @@ public class TestGit {
 	}
 	private void sys() {
 		// TODO Auto-generated method stub
-		System.out.println("该分支也修改了");
+		System.out.println("该分");
 	}
 	
 }
