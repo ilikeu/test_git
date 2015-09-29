@@ -9,10 +9,7 @@ public class TestGit {
 	public void setTestProperty(String testProperty) {
 		this.testProperty = testProperty;
 	}
-	private void sys() {
-		// TODO Auto-generated method stub
-		System.out.println("该分");
-		System.out.println("本分支修改了");
+	public static void main(String[] args) {
+		System.out.println("分支提交判断中干pull");
 	}
-	
 }
