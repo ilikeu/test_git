@@ -11,7 +11,7 @@ public class TestGit {
 	}
 	private void sys() {
 		// TODO Auto-generated method stub
-		System.out.println("第一客户端");
+		System.out.println("dev分支");
 	}
 	
 }
