@@ -10,6 +10,6 @@ public class TestGit {
 		this.testProperty = testProperty;
 	}
 	public static void main(String[] args) {
-		System.out.println("jd提交");
+		System.out.println("163测试冲突");
 	}
 }
