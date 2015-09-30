@@ -1,4 +1,3 @@
-
 public class TestGit {
 	private String testProperty;
 
@@ -9,9 +8,8 @@ public class TestGit {
 	public void setTestProperty(String testProperty) {
 		this.testProperty = testProperty;
 	}
-	private void sys() {
-		// TODO Auto-generated method stub
-		System.out.println("第一客户端");
+	public static void main(String[] args) {
+		System.out.println("163测试冲突");
 	}
-	
 }
+
